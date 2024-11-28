@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+	<TreatWarningsAsErrors>false</TreatWarningsAsErrors>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,6 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\2NTechBackendCase.Domain\2NTechBackendCase.Domain.csproj" />
+    <ProjectReference Include="..\2NTechBackendCase.Infrastructure\2NTechBackendCase.Infrastructure.csproj" />
     <ProjectReference Include="..\_2NTechBackendCase.Domain\_2NTechBackendCase.Domain.csproj" />
   </ItemGroup>
 

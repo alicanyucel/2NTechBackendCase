@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2NTechBackendCase.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a58c66df14c427c4e14531898d980991724c8025")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6e50fdf46a96b15dbd3985f1377c1324891826c")]
 [assembly: System.Reflection.AssemblyProductAttribute("2NTechBackendCase.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2NTechBackendCase.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
