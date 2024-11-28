@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26060ECA-7A8D-4232-8C47-C6B349B3266A}|Solution Items{26060ECA-7A8D-4232-8C47-C6B349B3266A}|C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\docker.compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{26060ECA-7A8D-4232-8C47-C6B349B3266A}|Solution Items{26060ECA-7A8D-4232-8C47-C6B349B3266A}|solutionrelative:docker.compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\dockefile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\dockefile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\2ntechbackendcase.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -103,14 +103,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "docker.compose.yaml",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\docker.compose.yaml",
-              "RelativeDocumentMoniker": "docker.compose.yaml",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\docker.compose.yaml",
-              "RelativeToolTip": "docker.compose.yaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-28T09:07:56.594Z",
+              "Title": "Dockefile",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Dockefile",
+              "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Dockefile",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Dockefile",
+              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Dockefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-28T09:16:27.588Z",
               "EditorCaption": ""
             },
             {

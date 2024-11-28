@@ -13,7 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2NTechBackendCase.WebAPI", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26060ECA-7A8D-4232-8C47-C6B349B3266A}"
 	ProjectSection(SolutionItems) = preProject
-		docker.compose.yaml = docker.compose.yaml
 		readme.md = readme.md
 	EndProjectSection
 EndProject
