@@ -23,4 +23,15 @@
     <ProjectReference Include="..\2NTechBackendCase.Domain\2NTechBackendCase.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Company\AddCompany\" />
+    <Folder Include="Features\Company\GetAllCompanies\" />
+    <Folder Include="Features\Company\UpdateCompany\" />
+    <Folder Include="Features\Company\RemoveCompany\" />
+    <Folder Include="Features\Personel\AddPersonel\" />
+    <Folder Include="Features\Personel\GetAllPersonels\" />
+    <Folder Include="Features\Personel\RemovePersonel\" />
+    <Folder Include="Features\Personel\UpdatePersonel\" />
+  </ItemGroup>
+
 </Project>

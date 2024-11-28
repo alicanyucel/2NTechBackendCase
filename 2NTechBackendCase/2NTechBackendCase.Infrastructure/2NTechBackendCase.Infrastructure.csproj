@@ -25,4 +25,8 @@
     <ProjectReference Include="..\2NTechBackendCase.Domain\2NTechBackendCase.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>
