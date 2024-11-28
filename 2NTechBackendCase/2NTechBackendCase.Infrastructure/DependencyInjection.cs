@@ -19,7 +19,12 @@ namespace _2NTechBackendCase.Infrastructure
             {
                 options.UseSqlServer(configuration.GetConnectionString("SqlServer"));
             });
-
+            // postgresql docker
+            services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                
+                options.UseNpgsql(configuration.GetConnectionString("PostgreSQL"));
+            });
             services.AddScoped<IUnitOfWork>(srv => srv.GetRequiredService<ApplicationDbContext>());
 
             services

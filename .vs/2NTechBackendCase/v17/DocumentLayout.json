@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.infrastructure\\2ntechbackendcase.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.infrastructure\\2ntechbackendcase.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +23,24 @@
       "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\middlewares\\extensionsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.infrastructure\\2ntechbackendcase.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1F09039-F3B1-4FCF-9138-97B0530FAB67}|2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.infrastructure\\2ntechbackendcase.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Migrations\\20241128094753_mg54.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,14 +78,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\DependencyInjection.cs*",
+              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.Infrastructure\\DependencyInjection.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:13:17.436Z",
+              "WhenOpened": "2024-11-28T10:16:25.647Z",
               "EditorCaption": ""
             },
             {
@@ -158,6 +162,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:13:17.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\AuthController.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "20241128094753_mg54.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Migrations\\20241128094753_mg54.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Infrastructure\\Migrations\\20241128094753_mg54.cs",
@@ -197,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "2NTechBackendCase.Domain",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Domain\\2NTechBackendCase.Domain.csproj",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Domain\\2NTechBackendCase.Domain.csproj",
@@ -210,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "2NTechBackendCase.Infrastructure",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -236,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "2NTechBackendCase.Application",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj",
@@ -249,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Dockerfile",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Dockerfile",
@@ -262,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "readme.md",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\readme.md",
               "RelativeDocumentMoniker": "readme.md",
@@ -288,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "WebAPI.http",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\WebAPI.http",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\WebAPI.http",
@@ -301,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Program.cs",
@@ -314,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\appsettings.json",
@@ -327,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "2NTechBackendCase.WebAPI",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
