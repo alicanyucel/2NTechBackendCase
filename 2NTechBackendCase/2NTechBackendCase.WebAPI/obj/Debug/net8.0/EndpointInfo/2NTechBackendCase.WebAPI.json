@@ -76,17 +76,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/GetAllPersonelQuery"
+                "$ref": "#/components/schemas/GetAllCompanyQuery"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/GetAllPersonelQuery"
+                "$ref": "#/components/schemas/GetAllCompanyQuery"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/GetAllPersonelQuery"
+                "$ref": "#/components/schemas/GetAllCompanyQuery"
               }
             }
           }
@@ -290,10 +290,6 @@
       "AddCompanyCommand": {
         "type": "object",
         "properties": {
-          "personelId": {
-            "type": "string",
-            "format": "uuid"
-          },
           "name": {
             "type": "string",
             "nullable": true
@@ -388,6 +384,10 @@
             "format": "uuid"
           }
         },
+        "additionalProperties": false
+      },
+      "GetAllCompanyQuery": {
+        "type": "object",
         "additionalProperties": false
       },
       "GetAllPersonelQuery": {

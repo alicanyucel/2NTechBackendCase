@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore;
 using TS.Result;
 
 namespace _2NTechBackendCase.Application.Features.Personel;
-internal sealed class GetAllEmployeeQueryHandler(IEmployeeRepository employeeRepository) : IRequestHandler<GetAllPesonelQuery, Result<List<Employee>>>
+internal sealed class GetAllEmployeeQueryHandler(IEmployeeRepository employeeRepository) : IRequestHandler<GetAllPersonelQuery, Result<List<Employee>>>
 {
-    public async Task<Result<List<Employee>>> Handle(GetAllPesonelQuery request, CancellationToken cancellationToken)
+    public async Task<Result<List<Employee>>> Handle(GetAllPersonelQuery request, CancellationToken cancellationToken)
     {
         List<Employee> employees = await employeeRepository.GetAll().OrderBy(p => p.Name).ThenBy(p => p.LastName).ToListAsync(cancellationToken);
 

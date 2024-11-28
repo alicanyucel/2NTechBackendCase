@@ -182,9 +182,6 @@ namespace _2NTechBackendCase.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<Guid>("ReportId")
-                        .HasColumnType("uniqueidentifier");
-
                     b.Property<DateTime>("RestDay")
                         .HasColumnType("datetime2");
 
@@ -199,20 +196,7 @@ namespace _2NTechBackendCase.Infrastructure.Migrations
 
                     b.HasIndex("CompanyId");
 
-                    b.HasIndex("ReportId");
-
                     b.ToTable("Employees");
-                });
-
-            modelBuilder.Entity("_2NTechBackendCase.Domain.Report", b =>
-                {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Reports");
                 });
 
             modelBuilder.Entity("_2NTechBackendCase.Domain.Entities.Employee", b =>
@@ -223,23 +207,10 @@ namespace _2NTechBackendCase.Infrastructure.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("_2NTechBackendCase.Domain.Report", "Report")
-                        .WithMany("Employees")
-                        .HasForeignKey("ReportId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.Navigation("Company");
-
-                    b.Navigation("Report");
                 });
 
             modelBuilder.Entity("_2NTechBackendCase.Domain.Entities.Company", b =>
-                {
-                    b.Navigation("Employees");
-                });
-
-            modelBuilder.Entity("_2NTechBackendCase.Domain.Report", b =>
                 {
                     b.Navigation("Employees");
                 });

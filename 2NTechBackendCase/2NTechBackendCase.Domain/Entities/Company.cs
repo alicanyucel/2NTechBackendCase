@@ -19,7 +19,7 @@ namespace _2NTechBackendCase.Domain.Entities
         public required string Town { get; set; } = default!;
         // 1 to n relationship
         public required ICollection<Employee> Employees { get; set; }= default!;
-        public string FullAddress => string.Join(", ", Name, Phone, Mail, City, Town);
+        public  string FullAddress => string.Join(", ", Name, Phone, Mail, City, Town);
     }
 
 }

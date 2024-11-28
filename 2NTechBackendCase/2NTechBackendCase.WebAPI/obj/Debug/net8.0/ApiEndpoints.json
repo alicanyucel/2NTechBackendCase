@@ -57,7 +57,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "_2NTechBackendCase.Application.GetAllPersonelQuery",
+        "Type": "_2NTechBackendCase.Application.GetAllCompanyQuery",
         "IsRequired": true
       }
     ],
@@ -121,7 +121,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "_2NTechBackendCase.Application.GetAllPersonelQuery",
+        "Type": "_2NTechBackendCase.Application.Features.Personel.GetAllPersonelQuery",
         "IsRequired": true
       }
     ],

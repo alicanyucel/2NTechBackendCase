@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using _2NTechBackendCase.Domain.Entities;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,5 +9,5 @@ using TS.Result;
 
 namespace _2NTechBackendCase.Application.Features.Company.AddCompany
 {
-    public sealed record AddCompanyCommand(Guid PersonelId,string Name,string Phone,string Mail,string City,string Town): IRequest<Result<string>>;
+    public sealed record AddCompanyCommand(string Name,string Phone,string Mail,string City,string Town): IRequest<Result<string>>;
 }

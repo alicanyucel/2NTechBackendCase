@@ -10,4 +10,4 @@ using TS.Result;
 
 namespace _2NTechBackendCase.Application.Features.Personel;
 
-public sealed record GetAllPesonelQuery() : IRequest<Result<List<Employee>>>;
+public sealed record GetAllPersonelQuery() : IRequest<Result<List<Employee>>>;

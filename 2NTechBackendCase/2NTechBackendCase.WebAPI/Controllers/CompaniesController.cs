@@ -24,7 +24,7 @@ namespace _2NTechBackendCase.WebAPI.Controllers
 
         }
         [HttpPost]
-        public async Task<IActionResult> GetAllCompanies(GetAllPersonelQuery request, CancellationToken cancellationToken)
+        public async Task<IActionResult> GetAllCompanies(GetAllCompanyQuery request, CancellationToken cancellationToken)
         {
             var response = await _mediator.Send(request, cancellationToken);
             return StatusCode(response.StatusCode, response);

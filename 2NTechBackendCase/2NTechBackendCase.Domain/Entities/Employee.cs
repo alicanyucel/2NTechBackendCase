@@ -17,9 +17,9 @@ namespace _2NTechBackendCase.Domain.Entities
         public required string City { get; set; } = default!;
         public required string Town { get; set; } = default!;
         public required string Email { get; set; } = default!;
-        public required DateTime StartDate { get; set; } = default!;
-        public required DateTime EndDate { get; set; } = default!;
-        public required DateTime RestDay { get; set; } = default!;
+        public required DateTime StartDate { get; set; }
+        public required DateTime EndDate { get; set; } 
+        public required DateTime RestDay { get; set; } 
         public required bool IsStartWork { get; set; } = false;
         // 1 to n relationship
         public required  Company Company { get; set; } = default!;

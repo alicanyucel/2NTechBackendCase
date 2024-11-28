@@ -12,8 +12,8 @@ using _2NTechBackendCase.Infrastructure.Context;
 namespace _2NTechBackendCase.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241128112239_mg98")]
-    partial class mg98
+    [Migration("20241128164754_mg92")]
+    partial class mg92
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

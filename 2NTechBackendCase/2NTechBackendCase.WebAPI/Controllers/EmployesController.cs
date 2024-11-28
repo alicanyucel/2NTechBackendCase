@@ -1,6 +1,4 @@
-﻿using _2NTechBackendCase.Application.Features.Company.AddCompany;
-using _2NTechBackendCase.Application.Features.Company;
-using _2NTechBackendCase.Application;
+﻿using _2NTechBackendCase.Application;
 using _2NTechBackendCase.WebAPI.Abstractions;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
