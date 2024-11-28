@@ -163,3 +163,12 @@ C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.
 C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\obj\Debug\net8.0\2NTechBackendCase.WebAPI.pdb
 C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\obj\Debug\net8.0\2NTechBackendCase.WebAPI.genruntimeconfig.cache
 C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\obj\Debug\net8.0\ref\2NTechBackendCase.WebAPI.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.WebAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
