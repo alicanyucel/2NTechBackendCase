@@ -16,6 +16,7 @@ namespace _2NTechBackendCase.WebAPI.Controllers
         public EmployesController(IMediator mediator) : base(mediator)
         {
         }
+        // burada sorun var eklemede
         [HttpPost]
         public async Task<IActionResult> AddEmployee(AddPersonelCommand request, CancellationToken cancellationToken)
         {
