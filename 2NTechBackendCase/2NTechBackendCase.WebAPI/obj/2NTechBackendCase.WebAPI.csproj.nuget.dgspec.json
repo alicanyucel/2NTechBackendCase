@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj": {}
+    "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj": {
+    "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
         "projectName": "2NTechBackendCase.WebAPI",
-        "projectPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
+        "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
         "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj": {
-                "projectPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj"
+              "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj": {
+                "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj"
               },
-              "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj": {
-                "projectPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj"
+              "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj"
               },
-              "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Infrastructure\\_2NTechBackendCase.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Infrastructure\\_2NTechBackendCase.Infrastructure.csproj"
+              "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Infrastructure\\_2NTechBackendCase.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Infrastructure\\_2NTechBackendCase.Infrastructure.csproj"
               }
             }
           }

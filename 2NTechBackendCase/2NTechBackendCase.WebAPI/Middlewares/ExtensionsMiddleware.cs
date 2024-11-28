@@ -17,10 +17,11 @@ namespace _2NTechBackendCase.WebAPI.Middlewares
                     {
                         UserName = "admin",
                         Email = "admin@admin.com",
-                        FirstName = "Taner",
-                        LastName = "Saydam",
+                        FirstName = "Ali Can",
+                        LastName = "YÜcel",
                         EmailConfirmed = true
                     };
+                    // token almak için auth contreller swaggerdan calıştırarak username="admin" password=1 yazmanız yeterli olacaktır
 
                     userManager.CreateAsync(user, "1").Wait();
                 }

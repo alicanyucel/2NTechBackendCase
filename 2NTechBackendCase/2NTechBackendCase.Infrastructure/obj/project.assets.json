@@ -3859,8 +3859,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj",
-      "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
+      "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj",
+      "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.4",
@@ -3874,11 +3874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj",
       "projectName": "2NTechBackendCase.Infrastructure",
-      "projectPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3899,11 +3899,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj": {
-              "projectPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj"
+            "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj": {
+              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj"
             },
-            "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj": {
-              "projectPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj"
+            "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj": {
+              "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj"
             }
           }
         }
@@ -3968,8 +3968,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
+      "message": "Unable to find project 'C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
       "targetGraphs": [
         "net8.0"
       ]
@@ -3977,8 +3977,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj",
+      "message": "Unable to find project 'C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj",
       "targetGraphs": [
         "net8.0"
       ]

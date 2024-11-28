@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T7YtlXLiFE4=",
+  "dgSpecHash": "C9PN/hISLvw=",
   "success": false,
-  "projectFilePath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Infrastructure\\2NTechBackendCase.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -82,8 +82,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
+      "message": "Unable to find project 'C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
       "targetGraphs": [
         "net8.0"
       ]
@@ -91,8 +91,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj",
+      "message": "Unable to find project 'C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj",
       "targetGraphs": [
         "net8.0"
       ]

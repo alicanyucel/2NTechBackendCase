@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MVhyw5Drsk8=",
+  "dgSpecHash": "PbSGIOrhh2E=",
   "success": false,
-  "projectFilePath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\defaultcorspolicy\\8.0.0\\defaultcorspolicy.8.0.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -62,8 +62,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Infrastructure\\_2NTechBackendCase.Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Infrastructure\\_2NTechBackendCase.Infrastructure.csproj",
+      "message": "Unable to find project 'C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Infrastructure\\_2NTechBackendCase.Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Infrastructure\\_2NTechBackendCase.Infrastructure.csproj",
       "targetGraphs": [
         "net8.0"
       ]
@@ -71,8 +71,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
+      "message": "Unable to find project 'C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
       "targetGraphs": [
         "net8.0"
       ]
@@ -80,8 +80,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj",
+      "message": "Unable to find project 'C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Application\\_2NTechBackendCase.Application.csproj",
       "targetGraphs": [
         "net8.0"
       ]

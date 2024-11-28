@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/oQqr/o7okg=",
+  "dgSpecHash": "Eroz7CGMUEQ=",
   "success": false,
-  "projectFilePath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
@@ -57,8 +57,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackendCase\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
+      "message": "Unable to find project 'C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\_2NTechBackendCase.Domain\\_2NTechBackendCase.Domain.csproj",
       "targetGraphs": [
         "net8.0"
       ]
