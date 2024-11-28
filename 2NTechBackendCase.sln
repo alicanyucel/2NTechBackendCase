@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2NTechBackendCase.Application", "2NTechBackendCase\2NTechBackendCase.Application\2NTechBackendCase.Application.csproj", "{8F78D605-5566-4140-BEED-98565F508053}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2NTechBackendCase.Infrastructure", "2NTechBackendCase\2NTechBackendCase.Infrastructure\2NTechBackendCase.Infrastructure.csproj", "{C1F09039-F3B1-4FCF-9138-97B0530FAB67}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2NTechBackendCase.WebAPI", "2NTechBackendCase\2NTechBackendCase.WebAPI\2NTechBackendCase.WebAPI.csproj", "{06CFF533-8864-4879-8FFE-987C06D3DB91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26060ECA-7A8D-4232-8C47-C6B349B3266A}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

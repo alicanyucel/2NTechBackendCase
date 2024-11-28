@@ -1,0 +1,2 @@
+posgtrsql kullanýcý adý:myusername
+þifre:mypassword
