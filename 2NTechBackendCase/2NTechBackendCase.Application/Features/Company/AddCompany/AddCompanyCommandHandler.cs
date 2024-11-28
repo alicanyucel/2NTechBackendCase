@@ -7,9 +7,9 @@ using TS.Result;
 using _2NTechBackendCase.Domain.Entities;
 
 namespace _2NTechBackendCase.Application.Features;
-internal sealed class AddCompanyComamndHandler(ICompanyRepository companyRepository, IUnitOfWork unitOfWork, IMapper mapper) : IRequestHandler<AddEmployeeCommand, Result<string>>
+internal sealed class AddCompanyComamndHandler(ICompanyRepository companyRepository, IUnitOfWork unitOfWork, IMapper mapper) : IRequestHandler<AddCompanyCommand, Result<string>>
 {
-    public async Task<Result<string>> Handle(AddEmployeeCommand request, CancellationToken cancellationToken)
+    public async Task<Result<string>> Handle(AddCompanyCommand request, CancellationToken cancellationToken)
     {
         Domain.Entities.Company company = mapper.Map<Domain.Entities.Company>(request);
         await companyRepository.AddAsync(company, cancellationToken);

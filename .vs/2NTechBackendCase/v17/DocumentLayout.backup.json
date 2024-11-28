@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.application\\features\\personel\\addpersonel\\addpersonelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.application\\features\\personel\\addpersonel\\addpersonelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\controllers\\employescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\controllers\\employescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.application\\features\\personel\\addpersonel\\addpersonelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.application\\features\\personel\\addpersonel\\addpersonelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.application\\features\\company\\addcompany\\addcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.application\\features\\company\\addcompany\\addcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.application\\features\\company\\addcompany\\addcompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.application\\features\\company\\addcompany\\addcompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C1623C-7EA4-41C0-BC18-2BC2C28799EB}|2NTechBackendCase\\2NTechBackendCase.Domain\\2NTechBackendCase.Domain.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C1623C-7EA4-41C0-BC18-2BC2C28799EB}|2NTechBackendCase\\2NTechBackendCase.Domain\\2NTechBackendCase.Domain.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CFF533-8864-4879-8FFE-987C06D3DB91}|2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.application\\features\\personel\\updatepersonel\\updatepersonelbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.application\\features\\personel\\addpersonel\\addpersonelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.application\\features\\personel\\addpersonel\\addpersonelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8C1623C-7EA4-41C0-BC18-2BC2C28799EB}|2NTechBackendCase\\2NTechBackendCase.Domain\\2NTechBackendCase.Domain.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C1623C-7EA4-41C0-BC18-2BC2C28799EB}|2NTechBackendCase\\2NTechBackendCase.Domain\\2NTechBackendCase.Domain.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.application\\features\\company\\addcompany\\addcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F78D605-5566-4140-BEED-98565F508053}|2NTechBackendCase\\2NTechBackendCase.Application\\2NTechBackendCase.Application.csproj|solutionrelative:2ntechbackendcase\\2ntechbackendcase.application\\features\\company\\addcompany\\addcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8C1623C-7EA4-41C0-BC18-2BC2C28799EB}|2NTechBackendCase\\2NTechBackendCase.Domain\\2NTechBackendCase.Domain.csproj|c:\\users\\ali can\\source\\repos\\2ntechbackend\\2ntechbackendcase\\2ntechbackendcase.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -233,7 +233,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 28,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -297,19 +297,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "RemoveCompanyByIdCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Company\\RemoveCompany\\RemoveCompanyByIdCommand.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Company\\RemoveCompany\\RemoveCompanyByIdCommand.cs",
@@ -322,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UpdateCompanyByIdCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Company\\UpdateCompany\\UpdateCompanyByIdCommand.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Company\\UpdateCompany\\UpdateCompanyByIdCommand.cs",
@@ -341,19 +333,19 @@
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Company\\AddCompany\\AddCompanyCommand.cs",
               "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Company\\AddCompany\\AddCompanyCommand.cs",
               "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Company\\AddCompany\\AddCompanyCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T12:30:56.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Mapping\\MappingProfile.cs*",
+              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.Application\\Mapping\\MappingProfile.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T14:06:28.817Z",
@@ -361,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UpdatePersonelByIdCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\UpdatePersonel\\UpdatePersonelByIdCommand.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\UpdatePersonel\\UpdatePersonelByIdCommand.cs",
@@ -374,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "AddCompanyCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Company\\AddCompany\\AddCompanyCommandHandler.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Company\\AddCompany\\AddCompanyCommandHandler.cs",
@@ -400,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Domain\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Domain\\Entities\\Employee.cs",
@@ -413,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Program.cs",
@@ -439,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AddPersonelCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\AddPersonel\\AddPersonelCommand.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\AddPersonel\\AddPersonelCommand.cs",
@@ -452,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "AddPersonelCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\AddPersonel\\AddPersonelCommandHandler.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\AddPersonel\\AddPersonelCommandHandler.cs",
@@ -465,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "GetAllPersonelQuery.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\GetAllPersonels\\GetAllPersonelQuery.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\GetAllPersonels\\GetAllPersonelQuery.cs",
@@ -478,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "GetAllPersonelQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\GetAllPersonels\\GetAllPersonelQueryHandler.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\GetAllPersonels\\GetAllPersonelQueryHandler.cs",
@@ -491,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RemovePersonelByIdCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\RemovePersonel\\RemovePersonelByIdCommand.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\RemovePersonel\\RemovePersonelByIdCommand.cs",
@@ -504,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "RemovePersonelByIdCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\RemovePersonel\\RemovePersonelByIdCommandHandler.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\RemovePersonel\\RemovePersonelByIdCommandHandler.cs",
@@ -517,7 +509,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:46:12.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\EmployesController.cs",
+              "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\EmployesController.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\EmployesController.cs",
+              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\EmployesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:45:32.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UpdatePersonelByIdCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\UpdatePersonel\\UpdatePersonelByIdCommandHandler.cs",
               "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.Application\\Features\\Personel\\UpdatePersonel\\UpdatePersonelByIdCommandHandler.cs",
@@ -526,32 +552,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T12:38:24.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CompaniesController.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\CompaniesController.cs",
-              "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\CompaniesController.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\CompaniesController.cs",
-              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\CompaniesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:46:12.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployesController.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\EmployesController.cs",
-              "RelativeDocumentMoniker": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\EmployesController.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\EmployesController.cs",
-              "RelativeToolTip": "2NTechBackendCase\\2NTechBackendCase.WebAPI\\Controllers\\EmployesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:45:32.547Z",
               "EditorCaption": ""
             },
             {

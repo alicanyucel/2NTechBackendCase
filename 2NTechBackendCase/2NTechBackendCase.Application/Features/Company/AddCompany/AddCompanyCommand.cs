@@ -8,5 +8,5 @@ using TS.Result;
 
 namespace _2NTechBackendCase.Application.Features.Company.AddCompany
 {
-    public sealed record AddEmployeeCommand(Guid PersonelId,string Name,string Phone,string Mail,string City,string Town): IRequest<Result<string>>;
+    public sealed record AddCompanyCommand(Guid PersonelId,string Name,string Phone,string Mail,string City,string Town): IRequest<Result<string>>;
 }

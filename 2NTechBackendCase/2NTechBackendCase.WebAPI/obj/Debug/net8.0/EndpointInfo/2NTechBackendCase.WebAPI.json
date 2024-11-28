@@ -45,17 +45,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/AddEmployeeCommand"
+                "$ref": "#/components/schemas/AddCompanyCommand"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/AddEmployeeCommand"
+                "$ref": "#/components/schemas/AddCompanyCommand"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/AddEmployeeCommand"
+                "$ref": "#/components/schemas/AddCompanyCommand"
               }
             }
           }
@@ -169,17 +169,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/AddEmployeeCommand"
+                "$ref": "#/components/schemas/AddPersonelCommand"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/AddEmployeeCommand"
+                "$ref": "#/components/schemas/AddPersonelCommand"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/AddEmployeeCommand"
+                "$ref": "#/components/schemas/AddPersonelCommand"
               }
             }
           }
@@ -287,7 +287,7 @@
   },
   "components": {
     "schemas": {
-      "AddEmployeeCommand": {
+      "AddCompanyCommand": {
         "type": "object",
         "properties": {
           "personelId": {
@@ -311,6 +311,59 @@
             "nullable": true
           },
           "town": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "AddPersonelCommand": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "phone": {
+            "type": "string",
+            "nullable": true
+          },
+          "mail": {
+            "type": "string",
+            "nullable": true
+          },
+          "city": {
+            "type": "string",
+            "nullable": true
+          },
+          "town": {
+            "type": "string",
+            "nullable": true
+          },
+          "age": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "restDay": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "isStartWork": {
+            "type": "boolean"
+          },
+          "address": {
             "type": "string",
             "nullable": true
           }

@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "_2NTechBackendCase.Application.Features.Company.AddCompany.AddEmployeeCommand",
+        "Type": "_2NTechBackendCase.Application.Features.Company.AddCompany.AddCompanyCommand",
         "IsRequired": true
       }
     ],
@@ -89,7 +89,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "_2NTechBackendCase.Application.Features.Company.AddCompany.AddEmployeeCommand",
+        "Type": "_2NTechBackendCase.Application.AddPersonelCommand",
         "IsRequired": true
       }
     ],
