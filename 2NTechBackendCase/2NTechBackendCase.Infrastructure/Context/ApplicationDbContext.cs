@@ -1,4 +1,5 @@
-﻿using _2NTechBackendCase.Domain.Entities;
+﻿using _2NTechBackendCase.Domain;
+using _2NTechBackendCase.Domain.Entities;
 using GenericRepository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
