@@ -1,4 +1,7 @@
-﻿using AutoMapper;
+﻿using _2NTechBackendCase.Application.Features.Company;
+using _2NTechBackendCase.Application.Features.Company.AddCompany;
+using _2NTechBackendCase.Domain.Entities;
+using AutoMapper;
 
 namespace _2NTechBackendCase.Application.Mapping
 {
@@ -6,7 +9,8 @@ namespace _2NTechBackendCase.Application.Mapping
     {
         public MappingProfile()
         {
-
+            CreateMap<DeleteCompanyCommand, Company>().ReverseMap();
+            CreateMap<UpdateCompanyCommand, Company>().ReverseMap();
         }
     }
 }

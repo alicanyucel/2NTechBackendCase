@@ -23,6 +23,6 @@ namespace _2NTechBackendCase.Domain.Entities
         public required bool IsStartWork { get; set; } = false;
         // 1 to n relationship
         public required Company Company { get; set; } = default!;
-      
     }
+
 }
