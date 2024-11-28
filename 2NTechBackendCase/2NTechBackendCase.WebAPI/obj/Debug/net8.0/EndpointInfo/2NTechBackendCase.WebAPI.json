@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Auth/Login": {
+    "/api/Auths/Login": {
       "post": {
         "tags": [
-          "Auth"
+          "Auths"
         ],
         "requestBody": {
           "content": {

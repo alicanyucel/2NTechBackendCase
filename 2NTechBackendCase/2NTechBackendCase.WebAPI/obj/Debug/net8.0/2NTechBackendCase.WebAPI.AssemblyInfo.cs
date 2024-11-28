@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2NTechBackendCase.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b98c5cf602390727a0f603ca3ab38d2df8ed0e9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b62559ef0ecd914790c46c760a382cd13b374899")]
 [assembly: System.Reflection.AssemblyProductAttribute("2NTechBackendCase.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2NTechBackendCase.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

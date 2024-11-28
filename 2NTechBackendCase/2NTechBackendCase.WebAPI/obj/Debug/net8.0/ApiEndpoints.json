@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.AuthController",
+    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.AuthsController",
     "Method": "Login",
-    "RelativePath": "api/Auth/Login",
+    "RelativePath": "api/Auths/Login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
