@@ -4,6 +4,8 @@ using GenericRepository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Reflection.Emit;
 
 namespace _2NTechBackendCase.Infrastructure.Context
 {
@@ -18,7 +20,6 @@ namespace _2NTechBackendCase.Infrastructure.Context
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfigurationsFromAssembly(typeof(DependencyInjection).Assembly);
-
             builder.Ignore<IdentityUserLogin<Guid>>();
             builder.Ignore<IdentityRoleClaim<Guid>>();
             builder.Ignore<IdentityUserToken<Guid>>();

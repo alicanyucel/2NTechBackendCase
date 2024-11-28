@@ -12,7 +12,7 @@ internal sealed class UpdatePersonelCommandHandler(IEmployeeRepository employeeR
 {
     public async Task<Result<string>> Handle(UpdatePersonelCommand request, CancellationToken cancellationToken)
     {
-        Employee? employee = await employeeRepository.GetByExpressionWithTrackingAsync(P => P.Id == request.Id, cancellationToken);
+        Employee? employee = await employeeRepository.GetByExpressionWithTrackingAsync(P => P.Id == request.id, cancellationToken);
         if (employee == null)
         {
             return Result<string>.Failure("Personel bulunamadı.");

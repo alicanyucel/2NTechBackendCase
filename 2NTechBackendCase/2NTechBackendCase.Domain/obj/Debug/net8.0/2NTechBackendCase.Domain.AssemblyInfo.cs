@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2NTechBackendCase.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ef97102c73b0df66c79e624cb139d5d3e4ff34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d44655ee035dba7eff4884933e1798365824b594")]
 [assembly: System.Reflection.AssemblyProductAttribute("2NTechBackendCase.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2NTechBackendCase.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

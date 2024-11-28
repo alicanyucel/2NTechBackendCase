@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TmXcxMk7UD8=",
+  "dgSpecHash": "Dr6Xqkhx1WU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\source\\repos\\2NTechBackend\\2NTechBackendCase\\2NTechBackendCase.WebAPI\\2NTechBackendCase.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\ardalis.smartenum\\8.0.0\\ardalis.smartenum.8.0.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",

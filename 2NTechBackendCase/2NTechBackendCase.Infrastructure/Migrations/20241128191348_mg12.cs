@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace _2NTechBackendCase.Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class mg92 : Migration
+    public partial class mg12 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -75,18 +75,18 @@ namespace _2NTechBackendCase.Infrastructure.Migrations
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    LastName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Phone = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Address = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Age = table.Column<int>(type: "int", nullable: false),
-                    City = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Town = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    StartDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    EndDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    RestDay = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    IsStartWork = table.Column<bool>(type: "bit", nullable: false),
+                    name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    lastName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    phone = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    address = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    age = table.Column<int>(type: "int", nullable: false),
+                    city = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    town = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    mail = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    startDate = table.Column<DateTime>(type: "datetime2", nullable: true),
+                    endDate = table.Column<DateTime>(type: "datetime2", nullable: true),
+                    restDay = table.Column<DateTime>(type: "datetime2", nullable: true),
+                    isStartWork = table.Column<bool>(type: "bit", nullable: false),
                     CompanyId = table.Column<Guid>(type: "uniqueidentifier", nullable: false)
                 },
                 constraints: table =>

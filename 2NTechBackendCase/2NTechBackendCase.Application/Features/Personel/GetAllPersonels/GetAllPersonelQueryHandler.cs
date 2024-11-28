@@ -9,7 +9,7 @@ internal sealed class GetAllEmployeeQueryHandler(IEmployeeRepository employeeRep
 {
     public async Task<Result<List<Employee>>> Handle(GetAllPersonelQuery request, CancellationToken cancellationToken)
     {
-        List<Employee> employees = await employeeRepository.GetAll().OrderBy(p => p.Name).ThenBy(p => p.LastName).ToListAsync(cancellationToken);
+        List<Employee> employees = await employeeRepository.GetAll().OrderBy(p => p.name).ThenBy(p => p.lastName).ToListAsync(cancellationToken);
 
         return employees;
     }
