@@ -14,5 +14,69 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.CompaniesController",
+    "Method": "AddCompany",
+    "RelativePath": "api/Companies/AddCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "_2NTechBackendCase.Application.Features.Company.AddCompany.AddCompanyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.CompaniesController",
+    "Method": "DeleteCompany",
+    "RelativePath": "api/Companies/DeleteCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "_2NTechBackendCase.Application.Features.Company.DeleteCompanyByIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.CompaniesController",
+    "Method": "GetAllCompanies",
+    "RelativePath": "api/Companies/GetAllCompanies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "_2NTechBackendCase.Application.GetAllCompanyQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.CompaniesController",
+    "Method": "UpdateCompany",
+    "RelativePath": "api/Companies/UpdateCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "_2NTechBackendCase.Application.Features.Company.UpdateCompanyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

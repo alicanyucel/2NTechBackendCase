@@ -9,7 +9,7 @@ namespace _2NTechBackendCase.Application.Mapping
     {
         public MappingProfile()
         {
-            CreateMap<DeleteCompanyCommand, Company>().ReverseMap();
+            CreateMap<AddCompanyCommand, Company>().ReverseMap();
             CreateMap<UpdateCompanyCommand, Company>().ReverseMap();
         }
     }
