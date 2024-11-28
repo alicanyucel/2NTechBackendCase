@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "_2NTechBackendCase.Application.Features.Company.AddCompany.AddCompanyCommand",
+        "Type": "_2NTechBackendCase.Application.Features.Company.AddCompany.AddEmployeeCommand",
         "IsRequired": true
       }
     ],
@@ -57,7 +57,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "_2NTechBackendCase.Application.GetAllCompanyQuery",
+        "Type": "_2NTechBackendCase.Application.GetAllPersonelQuery",
         "IsRequired": true
       }
     ],
@@ -74,6 +74,70 @@
       {
         "Name": "request",
         "Type": "_2NTechBackendCase.Application.Features.Company.UpdateCompanyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.EmployesController",
+    "Method": "AddEmployee",
+    "RelativePath": "api/Employes/AddEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "_2NTechBackendCase.Application.Features.Company.AddCompany.AddEmployeeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.EmployesController",
+    "Method": "DeleteEmployee",
+    "RelativePath": "api/Employes/DeleteEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "_2NTechBackendCase.Application.Features.Personel.DeletePersonelByIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.EmployesController",
+    "Method": "GetAllEmployes",
+    "RelativePath": "api/Employes/GetAllEmployes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "_2NTechBackendCase.Application.GetAllPersonelQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_2NTechBackendCase.WebAPI.Controllers.EmployesController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/Employes/UpdateEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "_2NTechBackendCase.Application.Features.Personel.UpdatePersonelCommand",
         "IsRequired": true
       }
     ],

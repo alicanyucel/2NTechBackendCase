@@ -45,17 +45,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/AddCompanyCommand"
+                "$ref": "#/components/schemas/AddEmployeeCommand"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/AddCompanyCommand"
+                "$ref": "#/components/schemas/AddEmployeeCommand"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/AddCompanyCommand"
+                "$ref": "#/components/schemas/AddEmployeeCommand"
               }
             }
           }
@@ -76,17 +76,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/GetAllCompanyQuery"
+                "$ref": "#/components/schemas/GetAllPersonelQuery"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/GetAllCompanyQuery"
+                "$ref": "#/components/schemas/GetAllPersonelQuery"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/GetAllCompanyQuery"
+                "$ref": "#/components/schemas/GetAllPersonelQuery"
               }
             }
           }
@@ -159,13 +159,141 @@
           }
         }
       }
+    },
+    "/api/Employes/AddEmployee": {
+      "post": {
+        "tags": [
+          "Employes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddEmployeeCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddEmployeeCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddEmployeeCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Employes/GetAllEmployes": {
+      "post": {
+        "tags": [
+          "Employes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GetAllPersonelQuery"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GetAllPersonelQuery"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GetAllPersonelQuery"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Employes/UpdateEmployee": {
+      "post": {
+        "tags": [
+          "Employes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdatePersonelCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdatePersonelCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdatePersonelCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Employes/DeleteEmployee": {
+      "post": {
+        "tags": [
+          "Employes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeletePersonelByIdCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeletePersonelByIdCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeletePersonelByIdCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
-      "AddCompanyCommand": {
+      "AddEmployeeCommand": {
         "type": "object",
         "properties": {
+          "personelId": {
+            "type": "string",
+            "format": "uuid"
+          },
           "name": {
             "type": "string",
             "nullable": true
@@ -199,7 +327,17 @@
         },
         "additionalProperties": false
       },
-      "GetAllCompanyQuery": {
+      "DeletePersonelByIdCommand": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          }
+        },
+        "additionalProperties": false
+      },
+      "GetAllPersonelQuery": {
         "type": "object",
         "additionalProperties": false
       },
@@ -241,6 +379,63 @@
             "nullable": true
           },
           "town": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdatePersonelCommand": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "phone": {
+            "type": "string",
+            "nullable": true
+          },
+          "mail": {
+            "type": "string",
+            "nullable": true
+          },
+          "city": {
+            "type": "string",
+            "nullable": true
+          },
+          "town": {
+            "type": "string",
+            "nullable": true
+          },
+          "age": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "restDay": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "isStartWork": {
+            "type": "boolean"
+          },
+          "address": {
             "type": "string",
             "nullable": true
           }

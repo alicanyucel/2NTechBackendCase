@@ -8,4 +8,4 @@ using System.Threading.Tasks;
 using TS.Result;
 
 namespace _2NTechBackendCase.Application;
-public sealed record GetAllCompanyQuery() : IRequest<Result<List<Company>>>;
+public sealed record GetAllPersonelQuery() : IRequest<Result<List<Company>>>;

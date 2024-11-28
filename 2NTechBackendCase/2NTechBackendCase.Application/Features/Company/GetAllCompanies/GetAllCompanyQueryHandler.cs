@@ -12,9 +12,9 @@ using TS.Result;
 
 namespace _2NTechBackendCase.Application;
 
-internal sealed class GetAllCompanyQueryHandler(ICompanyRepository companyRepository) : IRequestHandler<GetAllCompanyQuery, Result<List<Company>>>
+internal sealed class GetAllCompanyQueryHandler(ICompanyRepository companyRepository) : IRequestHandler<GetAllPersonelQuery, Result<List<Company>>>
 {
-    public async Task<Result<List<Company>>> Handle(GetAllCompanyQuery request, CancellationToken cancellationToken)
+    public async Task<Result<List<Company>>> Handle(GetAllPersonelQuery request, CancellationToken cancellationToken)
     {
         List<Company> companies = await companyRepository.GetAll().OrderBy(p => p.Name).ToListAsync(cancellationToken);
 

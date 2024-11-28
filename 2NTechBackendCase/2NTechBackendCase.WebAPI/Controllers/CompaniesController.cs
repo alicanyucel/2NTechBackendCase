@@ -17,14 +17,14 @@ namespace _2NTechBackendCase.WebAPI.Controllers
         {
         }
         [HttpPost]
-        public async Task<IActionResult> AddCompany(AddCompanyCommand request, CancellationToken cancellationToken)
+        public async Task<IActionResult> AddCompany(AddEmployeeCommand request, CancellationToken cancellationToken)
         {
             var response = await _mediator.Send(request, cancellationToken);
             return StatusCode(response.StatusCode, response);
 
         }
         [HttpPost]
-        public async Task<IActionResult> GetAllCompanies(GetAllCompanyQuery request, CancellationToken cancellationToken)
+        public async Task<IActionResult> GetAllCompanies(GetAllPersonelQuery request, CancellationToken cancellationToken)
         {
             var response = await _mediator.Send(request, cancellationToken);
             return StatusCode(response.StatusCode, response);
