@@ -1,2 +1,4 @@
-posgtrsql kullanıcı adı:myusername
-şifre:mypassword
+posgtrsql kullanÃ½cÃ½ adÃ½:myusername
+Ã¾ifre:mypassword
+auth controllerden token almak iÃ§in username:"admin"
+password=1  yazabilirsiniz
