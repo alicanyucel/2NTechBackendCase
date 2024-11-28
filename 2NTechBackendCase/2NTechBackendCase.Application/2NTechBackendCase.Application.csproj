@@ -18,8 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\2NTechBackendCase.Domain\2NTechBackendCase.Domain.csproj" />
-    <ProjectReference Include="..\2NTechBackendCase.Infrastructure\2NTechBackendCase.Infrastructure.csproj" />
-    <ProjectReference Include="..\_2NTechBackendCase.Domain\_2NTechBackendCase.Domain.csproj" />
   </ItemGroup>
 
 </Project>

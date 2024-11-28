@@ -1,0 +1,16 @@
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\bin\Debug\net8.0\2NTechBackendCase.Application.deps.json
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\bin\Debug\net8.0\2NTechBackendCase.Application.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\bin\Debug\net8.0\2NTechBackendCase.Application.pdb
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\bin\Debug\net8.0\2NTechBackendCase.Domain.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\bin\Debug\net8.0\2NTechBackendCase.Domain.pdb
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\2NTechBackendCase.Application.csproj.AssemblyReference.cache
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\2NTechBackendCase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\2NTechBackendCase.Application.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\2NTechBackendCase.Application.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\2NTechBackendCase.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\2NTechBackendCase.Application.sourcelink.json
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\2NTechBa.04618533.Up2Date
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\2NTechBackendCase.Application.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\refint\2NTechBackendCase.Application.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\2NTechBackendCase.Application.pdb
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Application\obj\Debug\net8.0\ref\2NTechBackendCase.Application.dll

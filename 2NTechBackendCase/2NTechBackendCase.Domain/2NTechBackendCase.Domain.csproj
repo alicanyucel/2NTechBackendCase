@@ -12,9 +12,4 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="TS.EntityFrameworkCore.GenericRepository" Version="8.0.0" />
   </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\2NTechBackendCase.Infrastructure\2NTechBackendCase.Infrastructure.csproj" />
-  </ItemGroup>
-
 </Project>

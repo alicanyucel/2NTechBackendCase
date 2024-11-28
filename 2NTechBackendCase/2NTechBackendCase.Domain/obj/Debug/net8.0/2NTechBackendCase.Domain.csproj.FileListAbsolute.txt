@@ -1,0 +1,13 @@
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\bin\Debug\net8.0\2NTechBackendCase.Domain.deps.json
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\bin\Debug\net8.0\2NTechBackendCase.Domain.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\bin\Debug\net8.0\2NTechBackendCase.Domain.pdb
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\2NTechBackendCase.Domain.csproj.AssemblyReference.cache
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\2NTechBackendCase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\2NTechBackendCase.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\2NTechBackendCase.Domain.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\2NTechBackendCase.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\2NTechBackendCase.Domain.sourcelink.json
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\2NTechBackendCase.Domain.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\refint\2NTechBackendCase.Domain.dll
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\2NTechBackendCase.Domain.pdb
+C:\Users\Ali Can\Source\Repos\2NTechBackend\2NTechBackendCase\2NTechBackendCase.Domain\obj\Debug\net8.0\ref\2NTechBackendCase.Domain.dll

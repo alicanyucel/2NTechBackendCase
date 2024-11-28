@@ -21,9 +21,6 @@
     <ProjectReference Include="..\2NTechBackendCase.Application\2NTechBackendCase.Application.csproj" />
     <ProjectReference Include="..\2NTechBackendCase.Domain\2NTechBackendCase.Domain.csproj" />
     <ProjectReference Include="..\2NTechBackendCase.Infrastructure\2NTechBackendCase.Infrastructure.csproj" />
-    <ProjectReference Include="..\_2NTechBackendCase.Application\_2NTechBackendCase.Application.csproj" />
-    <ProjectReference Include="..\_2NTechBackendCase.Domain\_2NTechBackendCase.Domain.csproj" />
-    <ProjectReference Include="..\_2NTechBackendCase.Infrastructure\_2NTechBackendCase.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
